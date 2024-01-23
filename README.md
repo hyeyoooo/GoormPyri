@@ -1,7 +1,8 @@
 # GoormPyri
 구름톤 트레이닝 풀스택 6회차에 소속된 파이리팀의 알고리즘 스터디입니다. 
 
-![image](https://github.com/GEONHO96/2024-Pyri-Goorm-Algorithm/assets/117559957/b78d1563-d444-4413-a776-f6be80dd7394)
+<img width="1000" alt="구름톤트레이닝" src="https://github.com/GoormPyri/GoormPyri/assets/144209738/943bfe69-6b8e-4f2e-b446-4597adee5960">
+
 
 
 ## 😄 ABOUT US
