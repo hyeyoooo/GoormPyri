@@ -20,9 +20,7 @@ int main() {
 	for (int i = 1; i < v.size(); i++) {
 		if (ans <= v[i].first) {
 		time = v[i].first + v[i].second;
-		}
-		else
-		{
+		} else {
 		time = time + v[i].second;
 		}
 	}
