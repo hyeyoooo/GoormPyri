@@ -16,17 +16,17 @@ int main() {
 	}
     
 	sort(v.begin(), v.end());
-	int ans = v[0].first + v[0].second;
+	int time = v[0].first + v[0].second;
 	for (int i = 1; i < v.size(); i++) {
 		if (ans <= v[i].first) {
-		ans = v[i].first + v[i].second;
+		time = v[i].first + v[i].second;
 		}
 		else
 		{
-		ans = ans + v[i].second;
+		time = time + v[i].second;
 		}
 	}
 
-	cout << ans << '\n';
+	cout << time << '\n';
 	return 0;
 }
